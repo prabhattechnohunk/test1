@@ -2,8 +2,7 @@ package p1;
 
 public class Test {	
 	
-	//fourth.............
-	//formatted code
+	//array program
 	 public static void main(String[] args) {	        
 	        int[] array = { 3, 4, 6, 5 };
 	        

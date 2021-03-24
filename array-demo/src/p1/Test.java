@@ -1,20 +1,16 @@
 package p1;
 
-public class Test {
-	
-	
-	 public static void main(String[] args) {
-	        
+public class Test {	
+	//formatted code
+	 public static void main(String[] args) {	        
 	        int[] array = { 3, 4, 6, 5 };
 	        
 	        for (int i = 0; i < array.length; i++) {	        
 	        int factorialCalc= factorial(array[i]);
 	        System.out.println("the factorials of the array are " + factorialCalc);
-	        }
-	       
+	        }	       
 	    
-	    }
-	        
+	    }	        
 	        public static int factorial(int num) { 
 	        int fact = 1;	      
 	           
@@ -24,8 +20,7 @@ public class Test {
 	            }
 	            return fact;
 	       
-	    }
-	    
+	    }	    
 	}
 
 	

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ArrayDemo1 {
 	
-	
+	//crete array using different ways
 	public static void main(String[] args) {
 		
 		//first way
@@ -51,10 +51,7 @@ public class ArrayDemo1 {
 		//we can declare the array like following also
 		int numbers4[]={6,9,1};
 		
-		//write a method to find the max element in an array
-		
-		
-		
+		//write a method to find the max element in an array		
 		
 		
 		int array[] = {10, 20, 25, 63, 96, 57};
